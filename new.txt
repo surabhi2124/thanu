@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi
-hello
+=======
+hi 
+>>>>>>> surabhi
+Hello
